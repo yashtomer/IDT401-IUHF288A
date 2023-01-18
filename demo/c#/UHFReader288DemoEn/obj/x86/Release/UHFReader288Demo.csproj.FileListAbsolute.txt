@@ -1,0 +1,13 @@
+E:\RFID_Worksapce\Latest Project\IDT401-I\demo\c#\UHFReader288DemoEn\bin\x86\Release\UHFReader288Demo.exe
+E:\RFID_Worksapce\Latest Project\IDT401-I\demo\c#\UHFReader288DemoEn\bin\x86\Release\UHFReader288Demo.pdb
+E:\RFID_Worksapce\Latest Project\IDT401-I\demo\c#\UHFReader288DemoEn\bin\x86\Release\CustomControl.dll
+E:\RFID_Worksapce\Latest Project\IDT401-I\demo\c#\UHFReader288DemoEn\obj\x86\Release\UHFReader288Demo.csproj.AssemblyReference.cache
+E:\RFID_Worksapce\Latest Project\IDT401-I\demo\c#\UHFReader288DemoEn\obj\x86\Release\UHFReader288Demo.ConfigForm.resources
+E:\RFID_Worksapce\Latest Project\IDT401-I\demo\c#\UHFReader288DemoEn\obj\x86\Release\UHFReader288Demo.Form1.resources
+E:\RFID_Worksapce\Latest Project\IDT401-I\demo\c#\UHFReader288DemoEn\obj\x86\Release\UHFReader288Demo.LoginForm.resources
+E:\RFID_Worksapce\Latest Project\IDT401-I\demo\c#\UHFReader288DemoEn\obj\x86\Release\UHFReader288Demo.Properties.Resources.resources
+E:\RFID_Worksapce\Latest Project\IDT401-I\demo\c#\UHFReader288DemoEn\obj\x86\Release\UHFReader288Demo.csproj.GenerateResource.cache
+E:\RFID_Worksapce\Latest Project\IDT401-I\demo\c#\UHFReader288DemoEn\obj\x86\Release\UHFReader288Demo.csproj.CoreCompileInputs.cache
+E:\RFID_Worksapce\Latest Project\IDT401-I\demo\c#\UHFReader288DemoEn\obj\x86\Release\UHFReader288Demo.csproj.CopyComplete
+E:\RFID_Worksapce\Latest Project\IDT401-I\demo\c#\UHFReader288DemoEn\obj\x86\Release\UHFReader288Demo.exe
+E:\RFID_Worksapce\Latest Project\IDT401-I\demo\c#\UHFReader288DemoEn\obj\x86\Release\UHFReader288Demo.pdb
